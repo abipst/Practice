@@ -6,8 +6,6 @@ public static void main(String[] args) {
 	System.out.println(a);
 	int b=2;
 	System.out.println(b);
-	int c=2;
-	System.out.println(c);
-	
+	System.out.println(b);
 }
 }
